@@ -1,0 +1,13 @@
+.titleRed { 
+    text-align: center; 
+    color:cadetblue;   
+    text-shadow: darkblue 2px 2px;
+    font-size: 80px; 
+    font-family: cursive;
+}  
+.App { 
+    background-color: beige; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
